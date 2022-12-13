@@ -1,21 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sonny</h1>
-<h3 align="center">Code that describes me:</h3>
+```
+from sklearn.linear_model import SGDClassifer 
+Sonny = SGDClassifer('squared_error')
+```
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonnochio" alt="sonnochio" /></a> </p>
-
-- 🔭 I’m currently working on [YouTube Optimizer](https://sonnochio-front-end-main-ln5u6z.streamlit.app/)
-
-- 🌱 I’m currently learning **Gan**
-
-- 💬 Ask me about **Web 3**
-
-- 📫 How to reach me **sonnochio@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/sonny-kong-044975138](https://www.linkedin.com/in/sonny-kong-044975138)
-
-- ⚡ Fun fact **I like cheese**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
